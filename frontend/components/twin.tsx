@@ -108,9 +108,9 @@ export default function Twin() {
             <div className="bg-gradient-to-r from-slate-700 to-slate-800 text-white p-4 rounded-t-lg">
                 <h2 className="text-xl font-semibold flex items-center gap-2">
                     <Bot className="w-6 h-6" />
-                    Sahidul's AI Digital Twin
+                    AI Digital Twin
                 </h2>
-                <p className="text-sm text-slate-300 mt-1"></p>
+                <p className="text-sm text-slate-300 mt-1">Your AI course companion</p>
             </div>
 
             {/* Messages */}
@@ -127,7 +127,7 @@ export default function Twin() {
                             <Bot className="w-12 h-12 mx-auto mb-3 text-gray-400" />
                         )}
                         <p>Hello! I&apos;m your Digital Twin.</p>
-                        <p className="text-sm mt-2">Ask me anything about my career, my expertise and my interests in technology!</p>
+                        <p className="text-sm mt-2">Ask me anything about AI deployment!</p>
                     </div>
                 )}
 
